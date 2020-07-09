@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 😄 Pronouns: He/Him
+- 🌱 I’m currently learning DevOps
+
 
 <!--
 **metagenes/metagenes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

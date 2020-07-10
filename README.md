@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-😄 Pronouns: He/Him
-🌱 I’m currently learning DevOps
+- 😄 Pronouns: He/Him
+- 🌱 I’m currently learning DevOps
 
 
 

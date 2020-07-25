@@ -13,14 +13,24 @@ Fun facts, while I'm not crying doing coding I love listening to a podcast and b
 
 My last publications:
 __[adonisjs-rest](https://github.com/metagenes/adonisjs-rest)__
+
+
 REST API using AdonisJS
 __[AzTech-Backend](https://github.com/metagenes/AzTech-Backend)__
 
+
+
 __[Basic-Algorithm-Program](https://github.com/metagenes/Basic-Algorithm-Program)__
+
+
 Solve basic algorithm program using javascript 
 __[boilerplate-blockchain](https://github.com/metagenes/boilerplate-blockchain)__
+
+
 Boilerplate smart contract solidity + webpack
 __[Book-Library](https://github.com/metagenes/Book-Library)__
+
+
 Book Library WebPage using React
 
 

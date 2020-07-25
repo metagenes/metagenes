@@ -44,3 +44,7 @@ __
 Book Library WebPage using React
 
 
+## Note
+[Counter Viewers Source](https://dev.to/tod/github-profile-view-counter-igj)
+
+[Auto generate last repo](https://dev.to/pashagray/github-auto-readme-with-ruby-github-actions-and-dev-to-api-1leo)

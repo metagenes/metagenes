@@ -34,13 +34,15 @@ jobs:
     - name: Run script
       # Here we are setting our secret API Key
       # Details: https://docs.github.com/en/actions/configuring-and-managing-workflows/using-variables-and-secrets-in-a-workflow
+      env:
+        DEV_TO_API_KEY: ${{ secrets.DEV_TO_API_KEY }}
       run: ruby ./scripts/rb/update_readme.rb
     # Our script updated README.md, but we need to commit all changes
     - name: Commit and push if changed
       run: |
         git add .
         git diff
-        git config --global user.email "github-action-bot@example.com"
-        git config --global user.name "GitHub Action Bot"
+        git config --global user.email "yudiprayogaraharja@gmail.com"
+        git config --global user.name "Yudi Prayoga Raharja"
         git commit -m "Updated README" -a || echo "No changes to commit"
         git push

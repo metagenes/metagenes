@@ -11,18 +11,16 @@ Fun facts, while I'm not crying doing coding I love listening to a podcast and b
 
 ![counter](https://ene3oosohyebu4a.m.pipedream.net)
 
+My last publications:
+__[adonisjs-rest](https://github.com/metagenes/adonisjs-rest)__
+REST API using AdonisJS
+__[AzTech-Backend](https://github.com/metagenes/AzTech-Backend)__
 
-<!--
-**metagenes/metagenes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+__[Basic-Algorithm-Program](https://github.com/metagenes/Basic-Algorithm-Program)__
+Solve basic algorithm program using javascript 
+__[boilerplate-blockchain](https://github.com/metagenes/boilerplate-blockchain)__
+Boilerplate smart contract solidity + webpack
+__[Book-Library](https://github.com/metagenes/Book-Library)__
+Book Library WebPage using React
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

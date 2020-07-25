@@ -5,9 +5,7 @@ require "faraday"
 # Get all posts
 # Take a look how we obtain our secret key by using ENV[]
 response = Faraday.get(
-  "https://api.github.com/users/metagenes/repos?per_page=5",
-  {},
-  {[]}
+  "https://api.github.com/users/metagenes/repos?per_page=5"
 )
 
 # Retrieve `title`, `url`, and `description` and

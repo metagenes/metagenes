@@ -12,33 +12,28 @@ Fun facts, while I'm not crying doing coding I love listening to a podcast and b
 ![counter](https://ene3oosohyebu4a.m.pipedream.net)
 
 My last publications:
-__
 
-[adonisjs-rest](https://github.com/metagenes/adonisjs-rest)__
+[adonisjs-rest](https://github.com/metagenes/adonisjs-rest)
 
 
 REST API using AdonisJS
-__
 
-[AzTech-Backend](https://github.com/metagenes/AzTech-Backend)__
-
+[AzTech-Backend](https://github.com/metagenes/AzTech-Backend)
 
 
-__
 
-[Basic-Algorithm-Program](https://github.com/metagenes/Basic-Algorithm-Program)__
+
+[Basic-Algorithm-Program](https://github.com/metagenes/Basic-Algorithm-Program)
 
 
 Solve basic algorithm program using javascript 
-__
 
-[boilerplate-blockchain](https://github.com/metagenes/boilerplate-blockchain)__
+[boilerplate-blockchain](https://github.com/metagenes/boilerplate-blockchain)
 
 
 Boilerplate smart contract solidity + webpack
-__
 
-[Book-Library](https://github.com/metagenes/Book-Library)__
+[Book-Library](https://github.com/metagenes/Book-Library)
 
 
 Book Library WebPage using React

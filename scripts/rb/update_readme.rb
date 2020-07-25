@@ -12,9 +12,8 @@ response = Faraday.get(
 # wrap it to markdown syntax
 posts = JSON.parse(response.body).map do |article|
   <<~EOF
-  __
   
-  [#{article['name']}](#{article['html_url']})__
+  [#{article['name']}](#{article['html_url']})
 
 
   #{article['description']}

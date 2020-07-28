@@ -4,18 +4,16 @@ require "faraday"
 
 # Get alupdated posts
 response = Faraday.get(
-  "https://api.github.com/users/metagenes/repos?sort=updated"
+  "api.github.com/users/metagenes/repos?sort=updated&per_page=5"
 )
 
 # Retrieve `title`, `url`, and `description` and
 # wrap it to markdown syntax
 
-posts = JSON.parse(response.body).map for i in 0..4 do |article| 
+posts = JSON.parse(response.body).map do |article|
   <<~EOF
   
   [#{article['name']}](#{article['html_url']})
-
-
   #{article['description']}
   EOF
 end

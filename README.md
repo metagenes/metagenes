@@ -3,6 +3,7 @@ I like learning new things because I believe that as a software engineer you sho
 Fun facts, while I'm not crying doing coding I love listening to a podcast and baking or just messing with a recipe that  I found online
 - 😄 Pronouns: He/Him
 - 🌱 I’m currently learning DevOps
+
 ![counter](https://ene3oosohyebu4a.m.pipedream.net)
 
 ## My last updated Repo:

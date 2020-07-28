@@ -2,14 +2,15 @@
 require "json"
 require "faraday"
 
-# Get all posts
-# Take a look how we obtain our secret key by using ENV[]
+# Get alupdated posts
 response = Faraday.get(
-  "https://api.github.com/users/metagenes/repos?per_page=5"
+  "https://api.github.com/users/metagenes/repos?sort=updated"
 )
 
 # Retrieve `title`, `url`, and `description` and
 # wrap it to markdown syntax
+
+for i in 0..4
 posts = JSON.parse(response.body).map do |article|
   <<~EOF
   
@@ -18,6 +19,7 @@ posts = JSON.parse(response.body).map do |article|
 
   #{article['description']}
   EOF
+end
 end
 
 # Generate your own layout and paste posts in it

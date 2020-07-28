@@ -10,8 +10,7 @@ response = Faraday.get(
 # Retrieve `title`, `url`, and `description` and
 # wrap it to markdown syntax
 
-for i in 0..4
-posts = JSON.parse(response.body).map do |article|
+posts = JSON.parse(response.body).map for |article| in 0..4 
   <<~EOF
   
   [#{article['name']}](#{article['html_url']})
@@ -20,7 +19,7 @@ posts = JSON.parse(response.body).map do |article|
   #{article['description']}
   EOF
 end
-end
+
 
 # Generate your own layout and paste posts in it
 # Don't forget to change text and name =)

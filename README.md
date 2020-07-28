@@ -4,20 +4,26 @@ Fun facts, while I'm not crying doing coding I love listening to a podcast and b
 - 😄 Pronouns: He/Him
 - 🌱 I’m currently learning DevOps
 ![counter](https://ene3oosohyebu4a.m.pipedream.net)
-My last publications:
+
+## My last updated Repo:
 
 [metagenes](https://github.com/metagenes/metagenes)
+
 
 
 [php-jwt](https://github.com/metagenes/php-jwt)
 
 
+
 [PokeDex](https://github.com/metagenes/PokeDex)
+
 PokeDex Typescript
 
 [adonisjs-rest](https://github.com/metagenes/adonisjs-rest)
+
 REST API using AdonisJS
 
 [AzTech-Backend](https://github.com/metagenes/AzTech-Backend)
+
 
 

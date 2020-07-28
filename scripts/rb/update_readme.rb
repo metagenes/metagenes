@@ -29,7 +29,9 @@ Fun facts, while I'm not crying doing coding I love listening to a podcast and b
 - 😄 Pronouns: He/Him
 - 🌱 I’m currently learning DevOps
 
+
 ![counter](https://ene3oosohyebu4a.m.pipedream.net)
+
 
 ## My last updated Repo:
 #{posts.join}

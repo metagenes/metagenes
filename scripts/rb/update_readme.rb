@@ -10,7 +10,7 @@ response = Faraday.get(
 # Retrieve `title`, `url`, and `description` and
 # wrap it to markdown syntax
 
-posts = JSON.parse(response.body).map for |article| in 0..4 
+posts = JSON.parse(response.body).map for i in 0..4 do |article| 
   <<~EOF
   
   [#{article['name']}](#{article['html_url']})

@@ -11,6 +11,14 @@ Fun facts, while I'm not crying doing coding I love listening to a podcast and b
 
 ## My last updated Repo:
 
+[PokeDex](https://github.com/metagenes/PokeDex)
+
+PokeDex Typescript
+
+[metagenes](https://github.com/metagenes/metagenes)
+
+Profile with auto-updated latest updated repositories and profile views
+
 [AzTech-Backend](https://github.com/metagenes/AzTech-Backend)
 
 REST API for voucher app.
@@ -18,14 +26,6 @@ REST API for voucher app.
 [php-jwt](https://github.com/metagenes/php-jwt)
 
 Simple PHP with JWT auth
-
-[metagenes](https://github.com/metagenes/metagenes)
-
-Profile with auto-updated latest updated repositories and profile views
-
-[PokeDex](https://github.com/metagenes/PokeDex)
-
-PokeDex Typescript
 
 [adonisjs-rest](https://github.com/metagenes/adonisjs-rest)
 

@@ -11,23 +11,23 @@ Fun facts, while I'm not crying doing coding I love listening to a podcast and b
 
 ## My last updated Repo:
 
-[midtrans_ci](https://github.com/metagenes/midtrans_ci)
+[pwa](https://github.com/metagenes/pwa)
 
 
-
-[midtrans-laravel](https://github.com/metagenes/midtrans-laravel)
-
-
-
-[restci_template](https://github.com/metagenes/restci_template)
-
-Template REST API
 
 [metagenes](https://github.com/metagenes/metagenes)
 
-Profile with auto-updated latest updated repositories and profile views
+Profile with auto-update latest repositories and profile views
 
-[PokeDex](https://github.com/metagenes/PokeDex)
+[restci_template](https://github.com/metagenes/restci_template)
 
-PokeDex Typescript
+Template REST API Code Igniter
+
+[midtrans-laravel](https://github.com/metagenes/midtrans-laravel)
+
+REST API Laravel and Midtrans Payment Gateway
+
+[midtrans_ci](https://github.com/metagenes/midtrans_ci)
+
+REST API CodeIgniter + Midtrans Payment Gateway
 

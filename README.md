@@ -11,6 +11,10 @@ Fun facts, while I'm not crying doing coding I love listening to a podcast and b
 
 ## My last updated Repo:
 
+[ProductAPI](https://github.com/metagenes/ProductAPI)
+
+REST API Laravel 
+
 [metagenes](https://github.com/metagenes/metagenes)
 
 Profile with auto-update latest repositories and profile views
@@ -26,8 +30,4 @@ Template REST API Code Igniter
 [midtrans-laravel](https://github.com/metagenes/midtrans-laravel)
 
 REST API Laravel and Midtrans Payment Gateway
-
-[midtrans_ci](https://github.com/metagenes/midtrans_ci)
-
-REST API CodeIgniter + Midtrans Payment Gateway
 

@@ -13,7 +13,7 @@ Fun facts, while I'm not crying doing coding I love listening to a podcast and b
 
 [shell_script](https://github.com/metagenes/shell_script)
 
-Tools for development
+Tools for development using Ubuntu
 
 [metagenes](https://github.com/metagenes/metagenes)
 

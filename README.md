@@ -11,13 +11,13 @@ Fun facts, while I'm not crying doing coding I love listening to a podcast and b
 
 ## My last updated Repo:
 
-[shell_script](https://github.com/metagenes/shell_script)
-
-Tools for development using Ubuntu
-
 [metagenes](https://github.com/metagenes/metagenes)
 
 Profile with auto-update latest repositories and profile views
+
+[shell_script](https://github.com/metagenes/shell_script)
+
+Tools for development using Ubuntu
 
 [ProductAPI](https://github.com/metagenes/ProductAPI)
 

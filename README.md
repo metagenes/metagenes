@@ -11,6 +11,10 @@ Fun facts, while I'm not crying doing coding I love listening to a podcast and b
 
 ## My last updated Repo:
 
+[adonisjs-rest](https://github.com/metagenes/adonisjs-rest)
+
+REST API using AdonisJS
+
 [metagenes](https://github.com/metagenes/metagenes)
 
 Profile with auto-update latest repositories and profile views
@@ -26,8 +30,4 @@ Profile with auto-update latest repositories and profile views
 [CekOngkir](https://github.com/metagenes/CekOngkir)
 
 Cek Ongkir using Vue + Taiwind
-
-[elasticsearch](https://github.com/metagenes/elasticsearch)
-
-
 

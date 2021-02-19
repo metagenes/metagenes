@@ -11,6 +11,10 @@ Fun facts, while I'm not crying doing coding I love listening to a podcast and b
 
 ## My last updated Repo:
 
+[metagenes](https://github.com/metagenes/metagenes)
+
+Profile with auto-update latest repositories and profile views
+
 [MovieList](https://github.com/metagenes/MovieList)
 
 Laravel + Tailwind
@@ -18,10 +22,6 @@ Laravel + Tailwind
 [Adonis_RESTAPI](https://github.com/metagenes/Adonis_RESTAPI)
 
 Boilerplate REST API using AdonisJS
-
-[metagenes](https://github.com/metagenes/metagenes)
-
-Profile with auto-update latest repositories and profile views
 
 [adonisjs-rest](https://github.com/metagenes/adonisjs-rest)
 

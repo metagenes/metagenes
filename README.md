@@ -11,6 +11,10 @@ Fun facts, while I'm not crying doing coding I love listening to a podcast and b
 
 ## My last updated Repo:
 
+[nest-restaurant-api](https://github.com/metagenes/nest-restaurant-api)
+
+
+
 [metagenes](https://github.com/metagenes/metagenes)
 
 Profile with auto-update latest repositories and profile views
@@ -26,8 +30,4 @@ Laravel + Tailwind
 [Adonis_RESTAPI](https://github.com/metagenes/Adonis_RESTAPI)
 
 Boilerplate REST API using AdonisJS
-
-[adonisjs-rest](https://github.com/metagenes/adonisjs-rest)
-
-REST API using AdonisJS
 

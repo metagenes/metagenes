@@ -15,6 +15,10 @@ Fun facts, while I'm not crying doing coding I love listening to a podcast and b
 
 Thinkpad x240 
 
+[metagenes](https://github.com/metagenes/metagenes)
+
+Profile with auto-update latest repositories and profile views
+
 [Lenovo-Thinkpad-T440S](https://github.com/metagenes/Lenovo-Thinkpad-T440S)
 
 Lenovo Thinkpad T440S using OpenCore Bootloader
@@ -22,10 +26,6 @@ Lenovo Thinkpad T440S using OpenCore Bootloader
 [Lenovo-Thinkpad-X240](https://github.com/metagenes/Lenovo-Thinkpad-X240)
 
 Lenovo ThinkPad X240 using OpenCore Bootloader
-
-[metagenes](https://github.com/metagenes/metagenes)
-
-Profile with auto-update latest repositories and profile views
 
 [nest-restaurant-api](https://github.com/metagenes/nest-restaurant-api)
 

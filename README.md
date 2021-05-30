@@ -11,13 +11,13 @@ Fun facts, while I'm not crying doing coding I love listening to a podcast and b
 
 ## My last updated Repo:
 
-[efi](https://github.com/metagenes/efi)
-
-Thinkpad x240 
-
 [metagenes](https://github.com/metagenes/metagenes)
 
 Profile with auto-update latest repositories and profile views
+
+[efi](https://github.com/metagenes/efi)
+
+Thinkpad x240 
 
 [Lenovo-Thinkpad-T440S](https://github.com/metagenes/Lenovo-Thinkpad-T440S)
 

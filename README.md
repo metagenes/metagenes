@@ -11,6 +11,10 @@ Fun facts, while I'm not crying doing coding I love listening to a podcast and b
 
 ## My last updated Repo:
 
+[fastify-api](https://github.com/metagenes/fastify-api)
+
+
+
 [metagenes](https://github.com/metagenes/metagenes)
 
 Profile with auto-update latest repositories and profile views
@@ -26,8 +30,4 @@ Lenovo Thinkpad T440S using OpenCore Bootloader
 [Lenovo-Thinkpad-X240](https://github.com/metagenes/Lenovo-Thinkpad-X240)
 
 Lenovo ThinkPad X240 using OpenCore Bootloader
-
-[nest-restaurant-api](https://github.com/metagenes/nest-restaurant-api)
-
-
 

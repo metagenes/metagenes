@@ -11,6 +11,10 @@ Fun facts, while I'm not crying doing coding I love listening to a podcast and b
 
 ## My last updated Repo:
 
+[netlify-functions-express](https://github.com/metagenes/netlify-functions-express)
+
+
+
 [rails_pg_api](https://github.com/metagenes/rails_pg_api)
 
 rails api using postgresql
@@ -26,8 +30,4 @@ Profile with auto-update latest repositories and profile views
 [fastify-api](https://github.com/metagenes/fastify-api)
 
 
-
-[efi](https://github.com/metagenes/efi)
-
-Thinkpad x240 
 

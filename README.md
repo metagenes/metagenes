@@ -11,6 +11,10 @@ Fun facts, while I'm not crying doing coding I love listening to a podcast and b
 
 ## My last updated Repo:
 
+[Blog-Crud](https://github.com/metagenes/Blog-Crud)
+
+
+
 [netlify-functions-express](https://github.com/metagenes/netlify-functions-express)
 
 
@@ -26,8 +30,4 @@ simple rest api using rails
 [metagenes](https://github.com/metagenes/metagenes)
 
 Profile with auto-update latest repositories and profile views
-
-[fastify-api](https://github.com/metagenes/fastify-api)
-
-
 

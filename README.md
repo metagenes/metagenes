@@ -11,6 +11,10 @@ Fun facts, while I'm not crying doing coding I love listening to a podcast and b
 
 ## My last updated Repo:
 
+[testRepo](https://github.com/metagenes/testRepo)
+
+
+
 [Blog-Crud](https://github.com/metagenes/Blog-Crud)
 
 
@@ -26,8 +30,4 @@ rails api using postgresql
 [rails_restapi](https://github.com/metagenes/rails_restapi)
 
 simple rest api using rails
-
-[metagenes](https://github.com/metagenes/metagenes)
-
-Profile with auto-update latest repositories and profile views
 

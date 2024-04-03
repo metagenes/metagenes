@@ -11,23 +11,23 @@ Fun facts, while I'm not crying doing coding I love listening to a podcast and b
 
 ## My last updated Repo:
 
-[testRepo](https://github.com/metagenes/testRepo)
+[api-swagger](https://github.com/metagenes/api-swagger)
+
+laravel with swagger
+
+[chirp-vue](https://github.com/metagenes/chirp-vue)
+
+Chirp using Laravel + Vue 3
+
+[go-post](https://github.com/metagenes/go-post)
+
+REST API using gin
+
+[laravel-pos](https://github.com/metagenes/laravel-pos)
+
+Aplikasi Point Of Sales yang dibangun dengan Laravel v8 dan AdminLTE v2.4
+
+[nestJS](https://github.com/metagenes/nestJS)
 
 
-
-[Blog-Crud](https://github.com/metagenes/Blog-Crud)
-
-
-
-[netlify-functions-express](https://github.com/metagenes/netlify-functions-express)
-
-
-
-[rails_pg_api](https://github.com/metagenes/rails_pg_api)
-
-rails api using postgresql
-
-[rails_restapi](https://github.com/metagenes/rails_restapi)
-
-simple rest api using rails
 

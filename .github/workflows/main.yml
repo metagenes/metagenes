@@ -18,10 +18,10 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-    - uses: actions/checkout@v2
-    - uses: actions/setup-ruby@v1
+    - uses: actions/checkout@v3
+    - uses: ruby/setup-ruby@v1
       with:
-        ruby-version: '*.*' # Version range or exact version of a Ruby version to use, using semvers version range syntax.
+        ruby-version: '2.7' # Version range or exact version of a Ruby version to use, using semvers version range syntax.
     - name: Install gems
       run: gem install faraday
     - name: Run script

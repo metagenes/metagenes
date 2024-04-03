@@ -1,13 +1,19 @@
 ### Hi there 👋
-Experienced Software Engineer with a focus on Laravel API development. I have experience building web applications with PHP using Laravel, CodeIgniter, and Lumen. I am proficient in building complex RESTful APIs for integrating EKYC, OCR, Passive Liveness and various Bank Services with Laravel. I am able to work independently and as part of a team, with good communication skills. I have a high learning spirit and always keep up with the latest technology developments. I am committed to providing the best and high quality solutions in every project I work on.
+I like learning new things because I believe that as a software engineer you should keep learning new things and while also have some goal of what to achieve. After all, stacks that being used are always have something new to offer.
+
+Fun facts, while I'm not crying doing coding I love listening to a podcast and baking or just messing with a recipe that  I found online
 - 😄 Pronouns: He/Him
-- 🌱 I’m currently learning Frontend using Vue / ReactJS
+- 🌱 I’m currently learning DevOps
 
 
 ![counter](https://ene3oosohyebu4a.m.pipedream.net)
 
 
 ## My last updated Repo:
+
+[laravel-filament](https://github.com/metagenes/laravel-filament)
+
+Laravel Filament Example
 
 [api-swagger](https://github.com/metagenes/api-swagger)
 
@@ -24,8 +30,4 @@ REST API using gin
 [laravel-pos](https://github.com/metagenes/laravel-pos)
 
 Aplikasi Point Of Sales yang dibangun dengan Laravel v8 dan AdminLTE v2.4
-
-[nestJS](https://github.com/metagenes/nestJS)
-
-
 

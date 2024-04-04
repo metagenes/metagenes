@@ -12,10 +12,6 @@ I have a high learning spirit and always keep up with the latest technology deve
 
 ## My last updated Repo:
 
-[cekongkirAPI](https://github.com/metagenes/cekongkirAPI)
-
-Simple Fee Tariff check
-
 [docker-template-react-laravel](https://github.com/metagenes/docker-template-react-laravel)
 
 Template project React, Laravel, mysql, phpmyadmin using docker
@@ -31,4 +27,8 @@ laravel with swagger
 [chirp-vue](https://github.com/metagenes/chirp-vue)
 
 Chirp using Laravel + Vue 3
+
+[go-post](https://github.com/metagenes/go-post)
+
+REST API using gin
 

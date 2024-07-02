@@ -14,7 +14,11 @@ I have a high learning spirit and always keep up with the latest technology deve
 
 [recipe-and-random-quote-api](https://github.com/metagenes/recipe-and-random-quote-api)
 
+Recipe and Random Quotes API using Express
 
+[metagenes](https://github.com/metagenes/metagenes)
+
+Profile with auto-update latest repositories and profile views
 
 [docker-template-react-laravel](https://github.com/metagenes/docker-template-react-laravel)
 
@@ -27,8 +31,4 @@ Laravel Filament Example
 [api-swagger](https://github.com/metagenes/api-swagger)
 
 laravel with swagger
-
-[chirp-vue](https://github.com/metagenes/chirp-vue)
-
-Chirp using Laravel + Vue 3
 

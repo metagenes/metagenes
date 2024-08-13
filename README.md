@@ -12,6 +12,10 @@ I have a high learning spirit and always keep up with the latest technology deve
 
 ## My last updated Repo:
 
+[project-11](https://github.com/metagenes/project-11)
+
+
+
 [metagenes](https://github.com/metagenes/metagenes)
 
 Profile with auto-update latest repositories and profile views
@@ -27,8 +31,4 @@ Recipe and Random Quotes API using Express
 [docker-template-react-laravel](https://github.com/metagenes/docker-template-react-laravel)
 
 Template project React, Laravel, mysql, phpmyadmin using docker
-
-[laravel-filament](https://github.com/metagenes/laravel-filament)
-
-Laravel Filament Example
 

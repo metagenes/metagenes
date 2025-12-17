@@ -12,23 +12,23 @@ I have a high learning spirit and always keep up with the latest technology deve
 
 ## My last updated Repo:
 
+[sugar-intake-wearOS](https://github.com/metagenes/sugar-intake-wearOS)
+
+
+
+[SugarSnap](https://github.com/metagenes/SugarSnap)
+
+
+
+[pet-shop-box](https://github.com/metagenes/pet-shop-box)
+
+A box containing all you need to get started with our Pet Shop tutorial.
+
+[Book-Library](https://github.com/metagenes/Book-Library)
+
+Book Library WebPage using React
+
 [project-11](https://github.com/metagenes/project-11)
 
 
-
-[metagenes](https://github.com/metagenes/metagenes)
-
-Profile with auto-update latest repositories and profile views
-
-[snapBI-signature-boilerplate](https://github.com/metagenes/snapBI-signature-boilerplate)
-
-Boilerplate for generating signature SNAP BI
-
-[recipe-and-random-quote-api](https://github.com/metagenes/recipe-and-random-quote-api)
-
-Recipe and Random Quotes API using Express
-
-[docker-template-react-laravel](https://github.com/metagenes/docker-template-react-laravel)
-
-Template project React, Laravel, mysql, phpmyadmin using docker
 

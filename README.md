@@ -12,6 +12,10 @@ I have a high learning spirit and always keep up with the latest technology deve
 
 ## My last updated Repo:
 
+[metagenes.github.io](https://github.com/metagenes/metagenes.github.io)
+
+
+
 [metagenes](https://github.com/metagenes/metagenes)
 
 Profile with auto-update latest repositories and profile views
@@ -27,8 +31,4 @@ Profile with auto-update latest repositories and profile views
 [SugarSnap](https://github.com/metagenes/SugarSnap)
 
 
-
-[pet-shop-box](https://github.com/metagenes/pet-shop-box)
-
-A box containing all you need to get started with our Pet Shop tutorial.
 

@@ -12,6 +12,10 @@ I have a high learning spirit and always keep up with the latest technology deve
 
 ## My last updated Repo:
 
+[monitoring](https://github.com/metagenes/monitoring)
+
+
+
 [metagenes](https://github.com/metagenes/metagenes)
 
 Profile with auto-update latest repositories and profile views
@@ -25,10 +29,6 @@ Profile with auto-update latest repositories and profile views
 
 
 [sugar-intake-wearOS](https://github.com/metagenes/sugar-intake-wearOS)
-
-
-
-[SugarSnap](https://github.com/metagenes/SugarSnap)
 
 
 

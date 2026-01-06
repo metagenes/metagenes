@@ -12,10 +12,6 @@ I have a high learning spirit and always keep up with the latest technology deve
 
 ## My last updated Repo:
 
-[metagenes](https://github.com/metagenes/metagenes)
-
-Profile with auto-update latest repositories and profile views
-
 [monitoring](https://github.com/metagenes/monitoring)
 
 
@@ -23,6 +19,10 @@ Profile with auto-update latest repositories and profile views
 [request-bin](https://github.com/metagenes/request-bin)
 
 
+
+[metagenes](https://github.com/metagenes/metagenes)
+
+Profile with auto-update latest repositories and profile views
 
 [metagenes.github.io](https://github.com/metagenes/metagenes.github.io)
 

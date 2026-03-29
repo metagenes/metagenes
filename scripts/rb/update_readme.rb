@@ -2,19 +2,34 @@
 require "json"
 require "faraday"
 
-# Get all posts
-# Take a look how we obtain our secret key by using ENV[]
-response = Faraday.get(
-  "https://api.github.com/users/metagenes/repos?sort=updated&per_page=5"
-)
+USERNAME = ENV.fetch("GITHUB_USERNAME", "metagenes")
+REPO_LIMIT = Integer(ENV.fetch("REPO_LIMIT", "5"), 10)
 
-# Retrieve `name`, `url`, and `description` and
-# wrap it to markdown syntax
-posts = JSON.parse(response.body).map do |article|
-  description = article["description"]&.strip
+connection = Faraday.new(url: "https://api.github.com") do |conn|
+  conn.request :url_encoded
+  conn.adapter Faraday.default_adapter
+  conn.options.timeout = 10
+end
+
+response = connection.get("/users/#{USERNAME}/repos", { sort: "updated", per_page: REPO_LIMIT }) do |req|
+  req.headers["Accept"] = "application/vnd.github+json"
+  req.headers["X-GitHub-Api-Version"] = "2022-11-28"
+  req.headers["User-Agent"] = "#{USERNAME}-readme-updater"
+end
+
+unless response.success?
+  warn "GitHub API request failed with status #{response.status}"
+  warn response.body.to_s[0..500]
+  exit 1
+end
+
+repos = JSON.parse(response.body)
+
+posts = repos.map do |repo|
+  description = repo["description"]&.strip
   description = "No description available." if description.nil? || description.empty?
 
-  "- [#{article['name']}](#{article['html_url']}) — #{description}"
+  "- [#{repo['name']}](#{repo['html_url']}) — #{description}"
 end
 
 # Generate your own layout and paste posts in it
@@ -52,5 +67,6 @@ I'm passionate about self-hosting and running my own infrastructure. My current 
 #{posts.join("\n")}
 EOF
 
-# Write you markdown to README.MD
-File.write("./README.md", markdown)
+# Write markdown to README.md
+readme_path = File.expand_path("../../README.md", __dir__)
+File.write(readme_path, markdown)

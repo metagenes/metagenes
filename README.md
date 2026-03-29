@@ -21,15 +21,14 @@ I'm passionate about self-hosting and running my own infrastructure. My current 
 - Optimizing Docker workloads and troubleshooting high-concurrency queue systems
 - Fine-tuning homelab power efficiency and network stability
 
+
 ![counter](https://ene3oosohyebu4a.m.pipedream.net)
+
 
 ## My Latest Repositories
 
 - [metagenes](https://github.com/metagenes/metagenes) — Profile with auto-update latest repositories and profile views
-- [deadman-switch](https://github.com/metagenes/deadman-switch)
-- [request-bin](https://github.com/metagenes/request-bin)
-- [monitoring](https://github.com/metagenes/monitoring)
-- [metagenes.github.io](https://github.com/metagenes/metagenes.github.io)
-
-
-
+- [deadman-switch](https://github.com/metagenes/deadman-switch) — No description available.
+- [request-bin](https://github.com/metagenes/request-bin) — No description available.
+- [monitoring](https://github.com/metagenes/monitoring) — No description available.
+- [metagenes.github.io](https://github.com/metagenes/metagenes.github.io) — No description available.

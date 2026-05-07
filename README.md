@@ -28,7 +28,7 @@ I'm passionate about self-hosting and running my own infrastructure. My current 
 ## My Latest Repositories
 
 - [metagenes](https://github.com/metagenes/metagenes) — Profile with auto-update latest repositories and profile views
-- [netlify-express](https://github.com/metagenes/netlify-express) — No description available.
 - [ping-service](https://github.com/metagenes/ping-service) — A lightweight Rust application to monitor internet jitter using ICMP ping
 - [speedtest-logger](https://github.com/metagenes/speedtest-logger) — A simple Rust-based service to run speedtest and report every 3 hours.
 - [deadman-switch](https://github.com/metagenes/deadman-switch) — No description available.
+- [request-bin](https://github.com/metagenes/request-bin) — No description available.
